@@ -17,6 +17,10 @@ flutter run
 
 
 
+Api test, 
+https://www.postman.com/dopamine-apis/workspace/earthquake/request/13567768-cd235aeb-16ba-42b8-be83-5a836295f363
+
+
 
 api endpoints
 
@@ -60,7 +64,7 @@ http://service.iris.edu/fdsnws/event/1/query?starttime=2023-02-01&minlatitude=15
 
 
 
-
+# To build
 
 flutter run --profile --cache-sksl --purge-persistent-cache
 
