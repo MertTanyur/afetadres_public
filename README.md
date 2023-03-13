@@ -3,7 +3,7 @@
 
 
 ## Requirements to run locally
-Local flutter sdk installation
+Local flutter sdk installation, ios and android config for map and location plugins.
 
 ## Run, debug command
 flutter run 
@@ -15,8 +15,7 @@ flutter run
 - [x] UI is completed far or more less
 - [x] UI lags while fetching and constructing data, need to use isolates, multithreading and clusters.
 
-Some good news....
-There are some collaborators for UI/UX design. Details in mail.
+
 
 
 api endpoints
