@@ -1,7 +1,7 @@
 # earthquake_emergency
 
 
-
+play store de yayimladim: afet adres(mor bı ikonu var)
 ## Requirements to run locally
 Local flutter sdk installation, ios and android config for map and location plugins.
 
